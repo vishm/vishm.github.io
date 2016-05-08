@@ -16,7 +16,7 @@ in the real world, as well as writing up about any new technology developments t
 
 I hope the contents will be of use to others as well as a store for my notes when my memory fails me.
 
-##So the blogging journey begins…
+## So the blogging journey begins…
 
 Figuring out which technology to use and host for this blog was my first port of call. I looked at different blogging platforms, however, I took a shine to Wordpress as this seems to be widely used for technical blogs and has a large community behind it that supply all manner of plugin.
 
